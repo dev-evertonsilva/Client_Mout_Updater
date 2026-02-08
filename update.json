@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "updater.dll",
+        "Hash": "C5081F0815D316FC490C8536949CEB9F",
+        "Size": 280064
+    },
+    {
+        "Name": "TibiaLegacy.dll",
+        "Hash": "D170D75913B2304D0A18938756B56DB1",
+        "Size": 110592
+    },
+    {
+        "Name": "TibiaRender.dll",
+        "Hash": "647C9A20882C35E6C692D124B2AE1B58",
+        "Size": 23040
+    },
+    {
+        "Name": "config.ini",
+        "Hash": "9E42C9400AA73C197325DBC3F2DF8D9E",
+        "Size": 136
+    },
+    {
+        "Name": "Tibia.exe",
+        "Hash": "F6C739A7BA2B0F2D54ACBA43B1380601",
+        "Size": 2437120
+    },
+    {
+        "Name": "Tibia.dat",
+        "Hash": "43D09115067476E672F83139DCB5405A",
+        "Size": 2382765
+    },
+    {
+        "Name": "Tibia.pic",
+        "Hash": "15B3FFAFC1EF47D6CC01BA153C6F2C9F",
+        "Size": 1917657
+    },
+    {
+        "Name": "Tibia.spr",
+        "Hash": "134F2608577A1E4A51D2302272208C84",
+        "Size": 382345390
+    }
+]
